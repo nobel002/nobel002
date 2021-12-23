@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nobel002
 - 👀 I’m interested in Programming and Games
-- 🌱 I’m currently learning Java C# and so on.
+- 🌱 I’m currently learning Java C# and so on. And I realy wanna learn F#. it seems like a cool language.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me dm me in discord @nobel002#5070
 
