@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning Java C# and so on. Rust and GO also seem cool.
 - 🔥 Javascript is one heck of a language (want to get more into web dev
 - 💞️ I’m looking to collaborate on ...
+- ❤ Google is my best friend...
 - 📫 How to reach me dm me in discord @nobel002#5070
 
 <!---
