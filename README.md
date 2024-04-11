@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nobel002
-- 👀 I’m interested in Programming and Games and ofc science
-- ✅ Can code in Python, (plain) javascript (not that node js thing, thats something dirrerent) and with the help of Google in C# and Java and Rust.
-- 🌱 I’m currently learning Java C# and so on. Rust and GO also seem cool.
+- 👀 I’m interested in programming and games and ofc science
+- ✅ Can code in Python, javascript, Java  and with the kind help of Google in C#, CPP, C and Rust.
+- 🌱 I’m currently learning Java, C# and so on. Rust and GO also seem cool.
 - ❤ Google is my best friend...
 
 <!--
